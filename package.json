@@ -1,0 +1,30 @@
+{
+  "name": "rest-api-example",
+  "version": "1.0.0",
+  "description": "rest api fullstack example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitriy-Sidorov/rest-api-example.git"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitriy-Sidorov/rest-api-example/issues"
+  },
+  "homepage": "https://github.com/Dmitriy-Sidorov/rest-api-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
